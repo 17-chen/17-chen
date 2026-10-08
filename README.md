@@ -30,12 +30,6 @@ AI can help someone produce code quickly, but that does not always mean they und
 
 [Explore Project Mentor](https://github.com/17-chen/project-mentor)
 
-### Portfolio Project Manager
-
-Long-running projects need more than a list of files. This Codex skill helps preserve project context across sessions: goals, architecture, decisions, tasks, changes, and handoff notes. I built it to make it easier to return to a repository, understand its current state, and continue with a clearer sense of what matters next.
-
-[Explore Portfolio Project Manager](https://github.com/17-chen/portfolio-project-manager)
-
 ## Current builds
 
 ### NearGuard
@@ -104,12 +98,6 @@ You can find more experiments in my [repositories](https://github.com/17-chen?ta
 AI 可以帮助我们更快写出代码，但完成项目不等于真正理解了它。Project Mentor 是一个 Codex Skill，能够结合项目代码、开发对话或两者的信息，整理出适合初学者阅读的中文软件工程课程。它解释架构、开发流程、技术决策、风险与下一步，让项目不仅能继续做，也能成为学习材料。
 
 [查看 Project Mentor](https://github.com/17-chen/project-mentor)
-
-### Portfolio Project Manager
-
-长期项目需要的不只是一组文件，还需要可追溯的上下文。这个 Codex Skill 用结构化文档记录项目目标、架构、决策、任务、变更和交接信息。我做它是为了在隔了一段时间后回到仓库时，仍能快速看清项目现在在哪里，以及接下来该做什么。
-
-[查看 Portfolio Project Manager](https://github.com/17-chen/portfolio-project-manager)
 
 ## 正在推进的项目
 
